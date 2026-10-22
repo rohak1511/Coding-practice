@@ -9,7 +9,9 @@ This repo is where I keep my practice programs, exercises, and experiments. I pu
 ## What's Inside
 
 Python programs
+
 C programs
+
 C++ program
 
 ## Conventions
