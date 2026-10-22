@@ -8,10 +8,9 @@ This repo is where I keep my practice programs, exercises, and experiments. I pu
 
 ## What's Inside
 
-| Folder | Contents                      |
-| python | Python programs and exercises |
-| c      | C programs                    |
-| cpp    | C++ programs                  |
+Python programs
+C programs
+C++ program
 
 ## Conventions
 
