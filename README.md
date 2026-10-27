@@ -14,6 +14,8 @@ C programs
 
 C++ program
 
+Java programs
+
 ## Conventions
 
 - Files are named after the problem or concept (e.g. `binary_search.py`)
